@@ -307,4 +307,4 @@ async def 참가(ctx):
         await ctx.message.add_reaction('🎵')
 
 
-bot.run('OTg1MjEwNzg5NTcwOTY1NTk0.Gbr3uz.frkDK7eiWQ0B-utHHrp1VKrT7oD9hATNXqrUxI')
+bot.run(token)
